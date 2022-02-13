@@ -17,7 +17,7 @@ public class FibonacciSeries {
 		int a = 0; int b = 1;
 		System.out.println(a);
 		System.out.println(b);
-		ob.fibonacci(a,b,n);
+		fibonacci(a,b,n);
 	}
 
 }
